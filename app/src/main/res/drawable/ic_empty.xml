@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Original illustration: empty tray for the "no downloads" state. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="120dp"
+    android:viewportWidth="160"
+    android:viewportHeight="120">
+    <path
+        android:fillColor="#1A26A69A"
+        android:pathData="M80,62 m-54,0 a54,54 0 1,0 108,0 a54,54 0 1,0 -108,0" />
+    <!-- tray -->
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M40,70 L58,70 Q62,84 80,84 Q98,84 102,70 L120,70 L120,92 Q120,98 114,98 L46,98 Q40,98 40,92 Z" />
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M40,70 L58,70 L56,66 L44,66 Z" />
+    <!-- arrow -->
+    <path
+        android:fillColor="#26A69A"
+        android:pathData="M75,26 L85,26 L85,48 L94,48 L80,64 L66,48 L75,48 Z" />
+    <!-- sparkles -->
+    <path
+        android:fillColor="#80CBC4"
+        android:pathData="M36,38 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#80CBC4"
+        android:pathData="M126,34 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <path
+        android:fillColor="#B2DFDB"
+        android:pathData="M120,54 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+</vector>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Original illustration: a phone receiving a download. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- soft glow circles -->
+    <path
+        android:fillColor="#22FFFFFF"
+        android:pathData="M60,60 m-52,0 a52,52 0 1,0 104,0 a52,52 0 1,0 -104,0" />
+    <path
+        android:fillColor="#26FFFFFF"
+        android:pathData="M60,60 m-38,0 a38,38 0 1,0 76,0 a38,38 0 1,0 -76,0" />
+    <!-- phone body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,18 L78,18 Q84,18 84,24 L84,96 Q84,102 78,102 L42,102 Q36,102 36,96 L36,24 Q36,18 42,18 Z" />
+    <!-- screen -->
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M41,28 L79,28 L79,92 L41,92 Z" />
+    <!-- play triangle -->
+    <path
+        android:fillColor="#00796B"
+        android:pathData="M54,38 L54,56 L68,47 Z" />
+    <!-- progress bar -->
+    <path
+        android:fillColor="#B2DFDB"
+        android:pathData="M48,64 L72,64 L72,68 L48,68 Z" />
+    <path
+        android:fillColor="#00796B"
+        android:pathData="M48,64 L63,64 L63,68 L48,68 Z" />
+    <!-- download arrow -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M58,74 L62,74 L62,80 L66,80 L60,87 L54,80 L58,80 Z" />
+    <!-- floating dots -->
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M92,34 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M26,78 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M96,82 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+</vector>
